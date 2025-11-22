@@ -1,3 +1,5 @@
+# NUMPY-Learning-Notes
+
 **Project Overview**
 
 - **Name:** `NUMPY-Learning-Notes` — A concise, hands-on collection of Jupyter notebooks that introduce and demonstrate core NumPy concepts.
